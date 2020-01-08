@@ -17,25 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>git使用详细教程</title>
-    <link href="https://jinshen.tech/2020/01/07/git%E4%BD%BF%E7%94%A8%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/"/>
-    <id>https://jinshen.tech/2020/01/07/git%E4%BD%BF%E7%94%A8%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/</id>
+    <title>软技能-代码之外的生存指南</title>
+    <link href="https://jinshen.tech/2020/01/07/%E8%BD%AF%E6%8A%80%E8%83%BD-%E4%BB%A3%E7%A0%81%E4%B9%8B%E5%A4%96%E7%9A%84%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97/"/>
+    <id>https://jinshen.tech/2020/01/07/%E8%BD%AF%E6%8A%80%E8%83%BD-%E4%BB%A3%E7%A0%81%E4%B9%8B%E5%A4%96%E7%9A%84%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97/</id>
     <published>2020-01-07T14:11:51.292Z</published>
     <updated>2020-01-07T14:11:51.292Z</updated>
     
-    <content type="html"><![CDATA[<p>什么是git？git是一个分布式版本控制软件，用于敏捷高效地处理任何或小或大的项目。git最初由林纳斯·托瓦兹创作，最初的目的是为更好地管理Linux内核开发而设计。“git”，该词源自英国俚语，意思大约是“混账”。林纳斯·托瓦兹自嘲地取了这个名字。什么是版本控制呢？版本控制是一种软件工程技巧，借此能在软件开发的过程中，确保由不同人所编辑的同一程序文件都得到同步。</p><a id="more"></a><h2 id="Git-安装配置"><a href="#Git-安装配置" class="headerlink" title="Git 安装配置"></a>Git 安装配置</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p><p>参考文献：<br>1、<a href="https://zh.wikipedia.org/wiki/Git" target="_blank" rel="noopener">git-维基百科，自由的百科全书</a><br>2、<a href="https://zh.wikipedia.org/wiki/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6" target="_blank" rel="noopener">版本控制系統 - 维基百科</a><br>3、<a href="https://www.liaoxuefeng.com/wiki/896043488029600" target="_blank" rel="noopener">廖雪峰官方网站上的git教程</a><br>4、[猴子都能懂的git入门]（<a href="https://backlog.com/git-tutorial/cn/）" target="_blank" rel="noopener">https://backlog.com/git-tutorial/cn/）</a><br>5、<a href="https://www.runoob.com/git/git-tutorial.html" target="_blank" rel="noopener">runoob上的git教程</a><br>6、<a href="https://www.w3cschool.cn/git/git-tutorial.html" target="_blank" rel="noopener">w3cschool上的git教程</a></p>]]></content>
+    <content type="html"><![CDATA[<p>这本书英文原名是《Soft Skills: the software developer’s life manual》，中文翻译是《软技能：代码之外的生存指南》。本书与你先前读过的任何书籍都迥然不同，多数软件开发都是有关软件开发本身的，本书却不是。本书中所说的“优秀的软件开发人员”，是那些能够把控自己的职业生涯、达成目标、享受生活的人。如果你想真正成为一个更好的软件开发人员（或者其他真正优秀的人才），你需要把重点放在整个“人”上，而不只是你生活中的一两个领域。</p><p>本书分为七个篇章：</p><p>1、职业篇–教你到底该如何主动地管理自己的职业生涯，从而达到自己追寻的结果。</p><p>2、自我营销篇–会触及一个我自己很心仪的话题：如何推销自己。</p><p>3、学习篇–向你展示如何依靠自己的能力和常识、辅以一点点的勇气与好奇心，就能获得更好的成果。</p><p>4、生产力篇–关于如何让工作更加富有成效的</p><p>5、理财篇–个人理财</p><p>6、健身篇–教你如何减掉脂肪、增加肌肉、给身体塑性</p><p>7、精神篇–将一头扎进形而上学的世界，来找寻海市蜃楼般的“机器中的精灵”</p><p>主要内容有以下几点：</p><p>1、社交远比你想象的重要</p><p>2、和面试官成为好朋友后再去面试（结果你懂的）</p><p>3、如何成为自由职业者</p><p>4、假装自己能成功</p><p>5、打造自身品牌：坚持写博客</p><p>6、有效管理时间以提升效率</p><p>7、学会理财：要善于炒房炒股（炒股在中国可能不算理财算赌博）</p><p>8、不要刷爆信用卡（这个问题可能美国人比较严重）</p><p>9、少看电视多运动，争取炼成肌肉男。</p><p>在我刚开始从事编程工作时，软件开发人员的典型形象就是一个书呆子，瘦骨嶙峋，戴着一副厚厚的眼镜，活脱一付笔尖保护套的模样。现在，这一形象似乎已经改变，不过是变得更糟了。如今，很多人认为，软件开发人员都是胖胖的男士，留着络腮胡子，穿着一件脏兮兮的白色T恤还吃着比萨。</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;什么是git？git是一个分布式版本控制软件，用于敏捷高效地处理任何或小或大的项目。git最初由林纳斯·托瓦兹创作，最初的目的是为更好地管理Linux内核开发而设计。“git”，该词源自英国俚语，意思大约是“混账”。林纳斯·托瓦兹自嘲地取了这个名字。什么是版本控制呢？版本控制是一种软件工程技巧，借此能在软件开发的过程中，确保由不同人所编辑的同一程序文件都得到同步。&lt;/p&gt;
+      
+      
+        &lt;p&gt;这本书英文原名是《Soft Skills: the software developer’s life manual》，中文翻译是《软技能：代码之外的生存指南》。本书与你先前读过的任何书籍都迥然不同，多数软件开发都是有关软件开发本身的，本书却不是。本书中所说的“优秀的软件开
+      
     
     </summary>
     
     
-      <category term="Git" scheme="https://jinshen.tech/categories/Git/"/>
-    
-    
-      <category term="Git" scheme="https://jinshen.tech/tags/Git/"/>
     
   </entry>
   
